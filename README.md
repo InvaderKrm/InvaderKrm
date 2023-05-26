@@ -1,6 +1,6 @@
 - Opa! Pode me chamar de Kramm;
 - Tenho 15 anos;
-- Estou nessa plataforma com objetivo de aprendizado;
+- Aprendendo HTML e CSS;
 - Me encontre pelo Instagram: @invader.artz;
 
 <!---
