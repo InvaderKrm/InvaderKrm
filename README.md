@@ -1,3 +1,4 @@
+<img src="https://cdn3.emoji.gg/emojis/5350-girdance.gif" align=left>
 - Opa! Pode me chamar de Kramm;
 - Tenho 15 anos;
 - Aprendendo HTML e CSS;
