@@ -1,9 +1,10 @@
+<img src="https://cdn3.emoji.gg/emojis/5350-girdance.gif" align=left width=200px>
+<h1>~saluton!</h1>
 <p>
-<img src="https://cdn3.emoji.gg/emojis/5350-girdance.gif" align=right><br>
 - Opa! Pode me chamar de Kramm;<br>
-- Tenho 15 anos;<br>
-- Aprendendo HTML e CSS;<br>
-- Me encontre pelo Instagram: @invader.artz;<br>
+- Eu tenho 15 anos;<br>
+- Estou aprendendo HTML e CSS;<br>
+- Você pode me encontrar no instagram!: @invader.artz;<br>
 </p>
 
 
