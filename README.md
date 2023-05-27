@@ -1,10 +1,11 @@
-<img src="https://cdn3.emoji.gg/emojis/5350-girdance.gif" align=left>
-- Opa! Pode me chamar de Kramm;
-- Tenho 15 anos;
-- Aprendendo HTML e CSS;
-- Me encontre pelo Instagram: @invader.artz;
+<p>
+<img src="https://cdn3.emoji.gg/emojis/5350-girdance.gif" align=right><br>
+- Opa! Pode me chamar de Kramm;<br>
+- Tenho 15 anos;<br>
+- Aprendendo HTML e CSS;<br>
+- Me encontre pelo Instagram: @invader.artz;<br>
+</p>
 
-<img src="https://cdn3.emoji.gg/emojis/5350-girdance.gif">
 
 <!---
 InvaderKrm/InvaderKrm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
