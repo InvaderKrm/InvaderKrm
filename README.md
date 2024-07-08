@@ -3,7 +3,7 @@
 <p>
 - Opa! Pode me chamar de Kramm;<br>
 - Eu tenho 16 anos;<br>
-- Estou aprendendo HTML e CSS;<br>
+- Estou aprendendo Python;<br>
 - Você pode me encontrar no instagram!: @invader.artz;<br>
 </p>
 
