@@ -3,10 +3,11 @@
 <p>
 - Opa! Pode me chamar de Kramm;<br>
 - Eu tenho 16 anos;<br>
-- Estou aprendendo Python <img src="https://imgur.com/a/eTbcJqG">;<br>
+- Estou aprendendo Python <img src="https://i.imgur.com/NUraDoY.png">;<br>
 - Você pode me encontrar no instagram!: @invader.artz;<br>
-</p>
 <img src="https://pa1.aminoapps.com/6573/48c6176e3972bd844869ce0a5ad027e088877de3_hq.gif">
+</p>
+
 
 
 <!---
