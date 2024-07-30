@@ -1,4 +1,3 @@
-<img src="https://cdn3.emoji.gg/emojis/5350-girdance.gif" align=left width=200px>
 <h1>~saluton!</h1>
 <p>
 - Opa! Pode me chamar de Kramm;<br>
