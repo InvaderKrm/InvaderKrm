@@ -3,8 +3,8 @@
 - Opa! Pode me chamar de Kramm;<br>
 - Eu tenho 16 anos;<br>
 - Estou aprendendo Python <img src="https://i.imgur.com/NUraDoY.png" width=12px>;<br>
-- Você pode me encontrar no instagram!: @invader.artz;<br>
-<img src="https://i.pinimg.com/originals/09/58/a2/0958a212d8e4b354b2668472808d5548.gif" width=200px>
+- Você pode me encontrar no instagram!: @invader.artz;<br><br>
+<img src="https://i.pinimg.com/originals/09/58/a2/0958a212d8e4b354b2668472808d5548.gif" width=250px>
 </p>
 
 
